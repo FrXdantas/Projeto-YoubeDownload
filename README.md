@@ -1,8 +1,16 @@
-# Projeto-YoubeDownload
-Projeto com finalidade de compor portifólio.
-## Mode de uso.
---
+## Projeto para Download de Videos do Youtube
+
+
+
+**projeto tem finalidade de portifólio de programação Python**
+
+
+
+Modo de uso ( versão 1.0 )
+
 Execute o arquivo main.py
-Cole uma url do video do youtube.
-espere o final do downlod
-verifique na pasta Downloads o arqivo de video.
+Abra o youtube.com e escolha um video qualquer de sua escolha.
+Cole o link do video no local indicado.
+Aguarde o fim do Download e verifique o arquivo na pasda de destino.
+
+**Obs.: A pasta de destino será mostrada no fim do download.**
